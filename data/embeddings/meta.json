@@ -1,6 +1,6 @@
 {
   "model": "sentence-transformers/all-MiniLM-L6-v2",
-  "count": 2872,
+  "count": 2884,
   "dim": 384,
   "normalized": true,
   "chunk_ids_path": "ids.json",
