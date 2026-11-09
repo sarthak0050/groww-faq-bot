@@ -512,6 +512,8 @@
   "hdfc-large-cap-fund-direct-growth::0510",
   "hdfc-large-cap-fund-direct-growth::0511",
   "hdfc-large-cap-fund-direct-growth::0512",
+  "hdfc-large-cap-fund-direct-growth::0513",
+  "hdfc-large-cap-fund-direct-growth::0514",
   "hdfc-equity-fund-direct-growth::0000",
   "hdfc-equity-fund-direct-growth::0001",
   "hdfc-equity-fund-direct-growth::0002",
@@ -1560,6 +1562,8 @@
   "hdfc-elss-tax-saver-fund-direct-plan-growth::0507",
   "hdfc-elss-tax-saver-fund-direct-plan-growth::0508",
   "hdfc-elss-tax-saver-fund-direct-plan-growth::0509",
+  "hdfc-elss-tax-saver-fund-direct-plan-growth::0510",
+  "hdfc-elss-tax-saver-fund-direct-plan-growth::0511",
   "hdfc-small-cap-fund-direct-growth::0000",
   "hdfc-small-cap-fund-direct-growth::0001",
   "hdfc-small-cap-fund-direct-growth::0002",
@@ -2102,6 +2106,8 @@
   "hdfc-small-cap-fund-direct-growth::0539",
   "hdfc-small-cap-fund-direct-growth::0540",
   "hdfc-small-cap-fund-direct-growth::0541",
+  "hdfc-small-cap-fund-direct-growth::0542",
+  "hdfc-small-cap-fund-direct-growth::0543",
   "hdfc-balanced-advantage-fund-direct-growth::0000",
   "hdfc-balanced-advantage-fund-direct-growth::0001",
   "hdfc-balanced-advantage-fund-direct-growth::0002",
@@ -2882,5 +2888,6 @@
   "hdfc-balanced-advantage-fund-direct-growth::0777",
   "hdfc-balanced-advantage-fund-direct-growth::0778",
   "hdfc-balanced-advantage-fund-direct-growth::0779",
-  "hdfc-balanced-advantage-fund-direct-growth::0780"
+  "hdfc-balanced-advantage-fund-direct-growth::0780",
+  "hdfc-balanced-advantage-fund-direct-growth::0781"
 ]
